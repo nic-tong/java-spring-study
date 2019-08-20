@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <spring.version>4.3.0.RELEASE</spring.version>
+    <spring.version>4.3.17.RELEASE</spring.version>
   </properties>
 
   <dependencies>
@@ -43,7 +43,6 @@
       <dependency>
           <groupId>org.springframework</groupId>
           <artifactId>spring-test</artifactId>
-          <version>4.3.0.RELEASE</version>
           <scope>test</scope>
       </dependency>
   </dependencies>
