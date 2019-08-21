@@ -1,4 +1,4 @@
-package com.study.spring.annotation;
+package com.study.spring.annotation.lookup;
 
 /**
  * 使用实现单例注入多例

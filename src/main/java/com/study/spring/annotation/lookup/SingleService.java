@@ -1,4 +1,4 @@
-package com.study.spring.annotation;
+package com.study.spring.annotation.lookup;
 
 import org.springframework.beans.factory.annotation.Lookup;
 import org.springframework.stereotype.Component;
